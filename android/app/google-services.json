@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "659155946969",
+    "firebase_url": "https://hour-of-code-e68f6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hour-of-code-e68f6",
+    "storage_bucket": "hour-of-code-e68f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659155946969:android:3cc792015ae300b211ddc8",
+        "android_client_info": {
+          "package_name": "com.myschool.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Czs_D0LjNubVfkjbPn4SkOXURE6RBgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
