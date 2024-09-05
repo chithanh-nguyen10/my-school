@@ -388,7 +388,7 @@ class _ControlScreenState extends State<ControlScreen> {
     return SafeArea(
         child: Center(
             child: Container(
-                height: screenHeight * 0.29,
+                height: screenHeight * 0.25,
                 width: screenWidth,
                 child: charts.SfCartesianChart(
                     enableAxisAnimation: true,

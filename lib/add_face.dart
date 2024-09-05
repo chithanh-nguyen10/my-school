@@ -12,7 +12,7 @@ class AddFace extends StatefulWidget {
 }
 
 class _AddFaceState extends State<AddFace> {
-  String _captureImageUrl = 'http://192.168.1.3:5000/capture_image';
+  String _captureImageUrl = 'http://172.20.10.6:5000/capture_image';
   final nameController = TextEditingController();
 
   String idTransform(int id) {
@@ -55,7 +55,7 @@ class _AddFaceState extends State<AddFace> {
               widthFactor: 1, // Adjust as needed
               heightFactor: 0.39, // Adjust as needed
               child: WebView(
-                initialUrl: 'http://192.168.1.3:5000/video_feed',
+                initialUrl: 'http://172.20.10.6:5000/video_feed',
                 javascriptMode: JavascriptMode.unrestricted,
               ),
             ),
